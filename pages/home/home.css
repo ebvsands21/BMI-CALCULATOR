@@ -1,0 +1,13 @@
+ion-content {
+  background: linear-gradient(to bottom, #FDC830, #F37335);
+}
+
+<strong> h2{font-family: sans;} 
+
+p {
+  font-family: sans-serif; text-align: justify;
+}
+
+ion-item {
+  background: transparent;
+}
